@@ -1,2 +1,2 @@
 # CodeExamples
-Misc and useful code examples
+Examples and samples of code I have found useful.
